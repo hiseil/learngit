@@ -1,2 +1,2 @@
-This is a read me file.
-This is just for git learning
+Change the first line for git test
+Change the second line for git test
