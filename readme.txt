@@ -12,4 +12,4 @@ add some thing in branch feature1
 
 try to merge with fast forward
 merge no ff
-
+noff 2
