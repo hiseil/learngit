@@ -14,3 +14,4 @@ try to merge with fast forward
 merge no ff
 noff 2
 add sth. in a new branch
+add a line at remote
