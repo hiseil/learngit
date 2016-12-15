@@ -10,3 +10,6 @@ add something in brach master
 
 add some thing in branch feature1
 
+try to merge with fast forward
+
+
